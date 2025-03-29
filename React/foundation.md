@@ -1,5 +1,6 @@
 ## 使用した教材
 [【2024年最新】React(v18)完全入門ガイド｜Hooks、Next14、Redux、TypeScript](https://www.udemy.com/course/react-complete-guide/)
+[React公式チュートリアル](https://ja.react.dev/learn)
 
 ## JS
 - debugger;
@@ -28,3 +29,4 @@ Chromeの開発ツールで検証可能。
 - 若干の違いあり（className, htmlForなど）
 - 1つのreturn内に1つのコンポーネントのみ許される（pタグ2つは不可）。
 - Fragmentで囲むことで1つのコンポーネントとして扱うことが可能（<></>）
+- XHTMLのように、必ず閉じタグをつける必要あり（<br />　<hr />など）。
