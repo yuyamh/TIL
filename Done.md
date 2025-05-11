@@ -32,3 +32,8 @@ Next.js公式ドキュメント ブログアプリ作成
 ## 2025/05/10
 生成AIパスポート公式テキスト 読書（2周目）
 Figmaの使い方学習
+
+## 2025/05/11
+生成AIパスポート公式テキスト 読書（2周目）
+[Figmaの使い方学習(Youtubeでハンズオン)](https://www.youtube.com/watch?v=eky8sqtH9eo)
+[Figma オートレイアウト](https://www.youtube.com/watch?v=bPDcUlv7C7A)
