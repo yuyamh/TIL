@@ -47,3 +47,6 @@ Figmaの使い方学習
 
 ## 2025/05/13
 生成AIパスポート公式テキスト 読書（2周目）
+
+## 2025/05/15
+[Figma コンポーネント)](https://www.youtube.com/watch?v=pllJYJvy8aw&t=280s)
