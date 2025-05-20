@@ -50,3 +50,6 @@ Figmaの使い方学習
 
 ## 2025/05/15
 [Figma コンポーネント)](https://www.youtube.com/watch?v=pllJYJvy8aw&t=280s)
+
+## 2025/05/20
+NotionでURL設計（Next.jsでの個人開発に向けて）
