@@ -65,3 +65,10 @@ v0の使い方学習
 ## 2025/05/25
 生成AIパスポート公式テキスト 読書（2周目）
 v0の使い方学習
+
+
+## 2025/05/26
+[Udemy 生成AIパスポート試験対策演習360問【2025年版】](https://www.udemy.com/course/generative-ai-passport-tests/?srsltid=AfmBOoo0naEAhfmAej9Uh2xl1ZGG2u7tV_zMS2vMHAyVUango9VhWPlL&couponCode=24T7MT260525G2)
+第一章 1 - 40問
+
+v0の使い方学習
