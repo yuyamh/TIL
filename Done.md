@@ -175,3 +175,7 @@ Jestの調査
 
 ## 2026/07/13
 Vitest＋React Testing Libraryでのテストの書き方学習
+
+## 2026/07/15
+Vitest＋React Testing Libraryでのテストの書き方学習
+だてまき テストケース洗い出し
