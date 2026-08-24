@@ -195,3 +195,8 @@ Qiita記事執筆
 書籍読む
 paiza
 記事執筆
+
+## 2026/08/10
+書籍読む
+paiza
+AtCoder
