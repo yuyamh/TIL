@@ -319,3 +319,6 @@ lower_bound
 
 ## 2026/10/04
 AtCoder Problems B問題埋め
+
+## 2026/10/05
+AtCoder Problems B問題埋め
