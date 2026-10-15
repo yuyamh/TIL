@@ -346,3 +346,7 @@ AtCoder Problems B問題埋め
 ## 2026/10/14
 AtCoder Problems B問題埋め
 復習
+
+## 2026/10/15
+AtCoder Problems B問題埋め
+復習
