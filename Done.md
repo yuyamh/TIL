@@ -365,3 +365,8 @@ AtCoder Problems B問題埋め
 
 ## 2026/10/19
 AtCoder Problems B問題埋め
+
+## 2026/10/20
+Vercel Supabase設定見直し
+
+土曜日から1週間ほど旅行に行く予定
