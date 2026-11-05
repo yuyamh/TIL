@@ -370,3 +370,9 @@ AtCoder Problems B問題埋め
 Vercel Supabase設定見直し
 
 土曜日から1週間ほど旅行に行く予定
+
+## 2026/10/21
+サービスを一旦停止
+
+## 2026/11/05
+AtCoder Problems B問題埋め
